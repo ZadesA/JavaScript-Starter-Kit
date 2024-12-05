@@ -1,4 +1,4 @@
-# Javascript Exercises
+# Javascript Starter Kit
 
 This is a repository with useful exercises to help people advance their knowledge in JavaScript.
 
